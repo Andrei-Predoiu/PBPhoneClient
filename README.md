@@ -1,4 +1,4 @@
-silentmap
+Bachelor Project Phone Client
 =========
 
 Our BP Phone Client
@@ -16,4 +16,3 @@ Nice To Haves:
 ....
 	
 	
-test
